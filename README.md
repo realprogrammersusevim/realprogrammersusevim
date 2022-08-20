@@ -10,22 +10,24 @@ I'm Jonathan, just a random guy who spends way to much time programming computer
 
 ---
 
-### I often build with...
+### 🛠 I often build with...
 
 <p>
 <a href="https://www.python.org/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.apple.com/macbook-air-m1/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/mac.svg" alt="MacBook Air" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Air" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://raspberrypi.org/">
-  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/raspberrypi.svg" alt="Raspberry Pi" style="vertical-align:top;margin:4px">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" style="vertical-align:top;margin:4px">
   </a>
-  <a href="https://github.com/ChristianChiarulli/LunarVim">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Neovim" style="vertical-align:top; margin:4px">
+  <a href="https://neovim.io">
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" style="vertical-align:top; margin:4px">
   </a>
-</p>
+  <a href="https://brave.com">
+    <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave Browser" style="vertical-align:top;margin:4px">
+  </a>
 
 ---
 
@@ -33,25 +35,38 @@ I'm Jonathan, just a random guy who spends way to much time programming computer
 
 <p>
 <a href="https://go.dev/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="Go" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.rust-lang.org/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://www.swift.org/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://developer.apple.com/xcode/">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/xcode.svg" alt="Xcode" style="vertical-align:top; margin:4px">
+    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" style="vertical-align:top; margin:4px">
   </a>
-
+  <a href="https://cprogramming.com/">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.clojure.org/">
+    <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.latex-project.org/">
+    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://pytorch.org">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" style="vertical-align:top;margin:4px">
+  </a>
+</p>
+  
 ---
 
 ### Miscellaneous
 
 If you would like to reach out for any reason just shoot me an email at my address on my GitHub profile.
 
-And yes, in case you were wondering, my username is indeed from an [xkcd comic](https://xkcd.com/378/) and I do actually use (Neo)Vim. My profile pic is also generated by DALL - E 2, because why not.
+And yes, in case you were wondering, my username is indeed from an [xkcd comic](https://xkcd.com/378/). My profile pic is also generated by DALL - E 2, because why not.
