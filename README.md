@@ -1,6 +1,56 @@
 ## 'ello!
 
+<p align="left">
+  <img src=https://github-readme-stats.vercel.app/api?username=realprogrammersusevim&show_icons=true&theme=tokyonight&count_private=true />
+</p>
+
+---
+
 I'm Jonathan, just a random guy who spends way to much time programming computers to do interesting stuff. Some of the things that currently interest me are Linux, creating a website, automating my Mac, doing funny stuff with Python and shell scripting, and the Bitcoin ecosystem. Outside of the digital universe I enjoy playing tennis and travelling.
+
+---
+
+### I often build with...
+
+<p>
+<a href="https://www.python.org/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/python.svg" alt="Python" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.apple.com/macbook-air-m1/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/mac.svg" alt="MacBook Air" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://raspberrypi.org/">
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/devices/raspberrypi.svg" alt="Raspberry Pi" style="vertical-align:top;margin:4px">
+  </a>
+  <a href="https://github.com/ChristianChiarulli/LunarVim">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg" alt="Neovim" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+
+---
+
+### I have or am also dabbling in...
+
+<p>
+<a href="https://go.dev/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/go.svg" alt="Go" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg" alt="HTML" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/rust.svg" alt="Rust" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.swift.org/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/swift.svg" alt="Swift" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://developer.apple.com/xcode/">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/xcode.svg" alt="Xcode" style="vertical-align:top; margin:4px">
+  </a>
+
+---
+
+### Miscellaneous
 
 If you would like to reach out for any reason just shoot me an email at my address on my GitHub profile.
 
