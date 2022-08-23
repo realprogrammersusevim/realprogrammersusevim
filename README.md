@@ -6,7 +6,7 @@
 
 ---
 
-I'm Jonathan, just a random guy who spends way to much time programming computers to do interesting stuff. Some of the things that currently interest me are Linux, creating a website, automating my Mac, doing funny stuff with Python and shell scripting, and the Bitcoin ecosystem. Outside of the digital universe I enjoy playing tennis and travelling.
+I'm Jonathan, a random guy who spends way to much time programming computers to do interesting stuff. Some of the things that currently interest me are Linux, creating a website, automating my Mac, doing funny stuff with Python and shell scripting, and the Bitcoin ecosystem. Outside of the digital universe I enjoy playing tennis and travelling.
 
 ---
 
@@ -66,12 +66,21 @@ I'm Jonathan, just a random guy who spends way to much time programming computer
   </a>
   <a href="https://sqlite.org">
     <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" style="vertical-align:top;margin:4px">
-    </a>
-    <a href="https://julialang.org">
-      <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" style="vertical-align:top;margin:4px">
-      </a>
+  </a>
+  <a href="https://julialang.org">
+    <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" style="vertical-align:top;margin:4px">
+  </a>
 </p>
   
+---
+
+You know what would really make my day? If you would:
+<p>
+  <a href="https://www.buymeacoffee.com/f45brjm9cjb">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="vertical-align:top;margin:4px"
+  </a>
+</p>
+
 ---
 
 ### Miscellaneous
