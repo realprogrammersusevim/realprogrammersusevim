@@ -28,6 +28,9 @@ I'm Jonathan, just a random guy who spends way to much time programming computer
   <a href="https://brave.com">
     <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave Browser" style="vertical-align:top;margin:4px">
   </a>
+  <a href="https://iterm2.com">
+  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="Iterm2" style="vertical-align:top;margin:4px">
+  </a>
 
 ---
 
@@ -61,6 +64,12 @@ I'm Jonathan, just a random guy who spends way to much time programming computer
   <a href="https://pytorch.org">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" style="vertical-align:top;margin:4px">
   </a>
+  <a href="https://sqlite.org">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" style="vertical-align:top;margin:4px">
+    </a>
+    <a href="https://julialang.org">
+      <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" style="vertical-align:top;margin:4px">
+      </a>
 </p>
   
 ---
