@@ -70,6 +70,8 @@ I'm Jonathan, a random guy who spends way to much time programming computers to 
   <a href="https://julialang.org">
     <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" style="vertical-align:top;margin:4px">
   </a>
+  <a href="https://lisp-lang.org">
+    <img src="https://img.shields.io/badge/Common%20Lisp-3fb68b?style=for-the-badge&logo=common-lisp&logoColor=white" alt="Common Lisp" style="vertical-align:top;margin:4px">
 </p>
   
 ---
