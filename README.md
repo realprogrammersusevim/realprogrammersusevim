@@ -6,7 +6,11 @@
 
 ---
 
-I'm Jonathan, a random guy who spends way to much time programming computers to do interesting stuff. Some of the things that currently interest me are Linux, creating a website, automating my Mac, doing funny stuff with Python and shell scripting, and the Bitcoin ecosystem. Outside of the digital universe I enjoy playing tennis and travelling.
+I'm Jonathan, a random guy who spends way to much time programming computers to
+do interesting stuff. Some of the things that currently interest me are Linux,
+creating a website, automating my Mac, doing funny stuff with Python and shell
+scripting, and the Bitcoin ecosystem. Outside of the digital universe I enjoy
+playing tennis and travelling.
 
 ---
 
@@ -25,12 +29,15 @@ I'm Jonathan, a random guy who spends way to much time programming computers to 
   <a href="https://neovim.io">
     <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://brave.com">
-    <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave Browser" style="vertical-align:top;margin:4px">
+  <a href="https://rust-lang.org">
+     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://iterm2.com">
-  <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white" alt="Iterm2" style="vertical-align:top;margin:4px">
-  </a>
+  <!-- <a href="https://brave.com"> -->
+  <!--   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave Browser" style="vertical-align:top;margin:4px"> -->
+  <!-- </a> -->
+  <!-- <a href="https://iterm2.com"> -->
+  <!-- <img src="https://img.shields.io/badge/Kitty?style=for-the-badge&logo=iterm2&logoColor=white" alt="kitty" style="vertical-align:top;margin:4px"> -->
+  <!-- </a> -->
 
 ---
 
@@ -43,32 +50,17 @@ I'm Jonathan, a random guy who spends way to much time programming computers to 
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.rust-lang.org/">
-    <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324" alt="Rust" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://www.swift.org/">
     <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://developer.apple.com/xcode/">
     <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://cprogramming.com/">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.clojure.org/">
-    <img src="https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure" style="vertical-align:top; margin:4px">
-  </a>
   <a href="https://www.latex-project.org/">
     <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://pytorch.org">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" style="vertical-align:top;margin:4px">
-  </a>
-  <a href="https://sqlite.org">
-    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="Sqlite" style="vertical-align:top;margin:4px">
-  </a>
-  <a href="https://julialang.org">
-    <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" alt="Julia" style="vertical-align:top;margin:4px">
   </a>
   <a href="https://lisp-lang.org">
     <img src="https://img.shields.io/badge/Common%20Lisp-3fb68b?style=for-the-badge&logo=common-lisp&logoColor=white" alt="Common Lisp" style="vertical-align:top;margin:4px">
@@ -78,6 +70,7 @@ I'm Jonathan, a random guy who spends way to much time programming computers to 
 ---
 
 You know what would really make my day? If you would:
+
 <p>
   <a href="https://www.buymeacoffee.com/f45brjm9cjb">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="vertical-align:top;margin:4px">
@@ -88,6 +81,9 @@ You know what would really make my day? If you would:
 
 ### Miscellaneous
 
-If you would like to reach out for any reason just shoot me an email at my address on my GitHub profile.
+If you would like to reach out for any reason just shoot me an email at my
+address on my GitHub profile.
 
-And yes, in case you were wondering, my username is indeed from an [xkcd comic](https://xkcd.com/378/). My profile pic is also generated by DALL - E 2, because why not.
+And yes, in case you were wondering, my username is indeed from an
+[xkcd comic](https://xkcd.com/378/). My profile pic is also generated by DALL -
+E 2, because why not.
