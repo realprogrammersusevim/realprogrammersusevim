@@ -1,8 +1,7 @@
 ## 'ello!
 
-<p align="left">
-  <img src=https://github-readme-stats.vercel.app/api?username=realprogrammersusevim&show_icons=true&theme=tokyonight&count_private=true />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=realprogrammersusevim&show_icons=true&theme=tokyonight&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=realprogrammersusevim)
 
 ---
 
@@ -16,66 +15,29 @@ playing tennis and travelling.
 
 ### 🛠 I often build with...
 
-<p>
-<a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.apple.com/macbook-air-m1/">
-    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Air" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://raspberrypi.org/">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" style="vertical-align:top;margin:4px">
-  </a>
-  <a href="https://neovim.io">
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://rust-lang.org">
-     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" style="vertical-align:top; margin:4px">
-  </a>
-  <!-- <a href="https://brave.com"> -->
-  <!--   <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white" alt="Brave Browser" style="vertical-align:top;margin:4px"> -->
-  <!-- </a> -->
-  <!-- <a href="https://iterm2.com"> -->
-  <!-- <img src="https://img.shields.io/badge/Kitty?style=for-the-badge&logo=iterm2&logoColor=white" alt="kitty" style="vertical-align:top;margin:4px"> -->
-  <!-- </a> -->
+![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ---
 
 ### I have or am also dabbling in...
 
-<p>
-<a href="https://go.dev/">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.swift.org/">
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://developer.apple.com/xcode/">
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" alt="Xcode" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://www.latex-project.org/">
-    <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="Latex" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://pytorch.org">
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" alt="Pytorch" style="vertical-align:top;margin:4px">
-  </a>
-  <a href="https://lisp-lang.org">
-    <img src="https://img.shields.io/badge/Common%20Lisp-3fb68b?style=for-the-badge&logo=common-lisp&logoColor=white" alt="Common Lisp" style="vertical-align:top;margin:4px">
-  </a>
-</p>
-  
+![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![](https://img.shields.io/badge/Common%20Lisp-3fb68b?style=for-the-badge&logo=common-lisp&logoColor=white)
+
 ---
 
 You know what would really make my day? If you would:
 
-<p>
-  <a href="https://www.buymeacoffee.com/f45brjm9cjb">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" style="vertical-align:top;margin:4px">
-  </a>
-</p>
+![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
 ---
 
