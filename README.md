@@ -7,9 +7,9 @@
 
 I'm Jonathan, a random guy who spends way to much time programming computers to
 do interesting stuff. Some of the things that currently interest me are Linux,
-creating a website, automating my Mac, doing funny stuff with Python and shell
-scripting, and the Bitcoin ecosystem. Outside of the digital universe I enjoy
-playing tennis and travelling.
+automating my Mac, doing funny stuff with Python and shell scripting, Rust, and
+the Bitcoin ecosystem. Outside of the digital universe I enjoy playing tennis
+and travelling.
 
 ---
 
