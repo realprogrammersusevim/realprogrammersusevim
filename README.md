@@ -1,7 +1,7 @@
 ## 'ello!
 
 ![](https://github-readme-stats.vercel.app/api?username=realprogrammersusevim&show_icons=true&theme=tokyonight&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realprogrammersusevim&theme=tokyonight&exclude_repo=lopp.net,plenary.nvim,hosts,pyscript,miniforge&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=realprogrammersusevim&theme=tokyonight&exclude_repo=lopp.net,plenary.nvim,hosts,pyscript,miniforge,Self-Hosted-Website&layout=compact&langs_count=8)
 
 ---
 
