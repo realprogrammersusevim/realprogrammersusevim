@@ -6,7 +6,7 @@
 ---
 
 I'm Jonathan, a random guy who spends way to much time programming computers to
-do interesting stuff. Some of the things that currently interest me are Linux,
+do interesting stuff. Some of the things that currently interest me are NeoVim,
 automating my Mac, doing funny stuff with Python and shell scripting, Rust, and
 the Bitcoin ecosystem. Outside of the digital universe I enjoy playing tennis
 and travelling.
