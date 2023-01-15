@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Jonathan;Code+and+freedom)](https://github.com/realprogrammersusevim)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&repeat=false&width=435&lines=Jonathan;Code+and+freedom)](https://github.com/realprogrammersusevim)
 
 I'm Jonathan, a random guy who spends way to much time programming computers to
 do interesting stuff. Some of the things that currently interest me are NeoVim,
