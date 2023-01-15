@@ -1,9 +1,4 @@
-## 'ello!
-
-![](https://github-readme-stats.vercel.app/api?username=realprogrammersusevim&show_icons=true&theme=tokyonight&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=realprogrammersusevim&theme=tokyonight&exclude_repo=lopp.net,plenary.nvim,hosts,pyscript,miniforge,Self-Hosted-Website&layout=compact&langs_count=8)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&multiline=true&repeat=false&width=435&lines=Jonathan;Code+and+freedom)](https://github.com/realprogrammersusevim)
 
 I'm Jonathan, a random guy who spends way to much time programming computers to
 do interesting stuff. Some of the things that currently interest me are NeoVim,
@@ -13,7 +8,7 @@ and travelling.
 
 ---
 
-### 🛠 I often build with...
+### 🛠 I often build with…
 
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://python.org)
 [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macbook-air-m1/)
@@ -24,7 +19,7 @@ and travelling.
 
 ---
 
-### I have or am also dabbling in...
+### I have or am also dabbling in…
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
@@ -49,3 +44,12 @@ address on my GitHub profile.
 
 And yes, in case you were wondering, my username is indeed from an
 [xkcd comic](https://xkcd.com/378/).
+
+<details>
+<summary>Stats</summary>
+<br>
+
+[![](https://github-readme-stats.vercel.app/api?username=realprogrammersusevim&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/realprogrammersusevim)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=realprogrammersusevim&theme=tokyonight&exclude_repo=lopp.net,plenary.nvim,hosts,pyscript,miniforge,Self-Hosted-Website&layout=compact&langs_count=8)](https://github.com/realprogrammersusevim)
+
+</details>
