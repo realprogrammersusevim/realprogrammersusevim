@@ -3,6 +3,8 @@ do interesting stuff. Some of the things that currently interest me are Neovim,
 LLM capabilities and alignment, automating my Mac, and Rust. Outside of the
 digital universe I enjoy playing tennis and travelling.
 
+I sometimes write [on my blog](https://jonathansm.com).
+
 ---
 
 ### 🛠 I often build with…
